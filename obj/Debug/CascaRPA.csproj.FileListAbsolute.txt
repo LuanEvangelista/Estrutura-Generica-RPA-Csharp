@@ -1,0 +1,11 @@
+C:\Users\Luan\source\repos\CascaRPA\bin\Debug\CascaRPA.exe.config
+C:\Users\Luan\source\repos\CascaRPA\bin\Debug\CascaRPA.exe
+C:\Users\Luan\source\repos\CascaRPA\bin\Debug\CascaRPA.pdb
+C:\Users\Luan\source\repos\CascaRPA\obj\Debug\CascaRPA.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\CascaRPA\obj\Debug\CascaRPA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luan\source\repos\CascaRPA\obj\Debug\CascaRPA.Properties.Resources.resources
+C:\Users\Luan\source\repos\CascaRPA\obj\Debug\CascaRPA.csproj.GenerateResource.cache
+C:\Users\Luan\source\repos\CascaRPA\obj\Debug\CascaRPA.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\CascaRPA\obj\Debug\CascaRPA.exe
+C:\Users\Luan\source\repos\CascaRPA\obj\Debug\CascaRPA.pdb
+C:\Users\Luan\source\repos\CascaRPA\obj\Debug\CascaRPA.RPA_Principal.resources
